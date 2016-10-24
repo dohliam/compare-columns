@@ -20,7 +20,7 @@ The result will be displayed in the third column.
 
 ## See also
 
-"Compare columns" is part of the **tiny tools** series.
+"Compare columns" is part of the [**tiny tools**](https://dohliam.github.io/tiny_tools/) series.
 
 Other tools for working with columns of data that might also be of interest:
 
