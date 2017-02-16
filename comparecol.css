@@ -1,13 +1,15 @@
-textarea {
-  width: auto;
-  height: auto;
-}
-input[type='text'] {
-  width: auto;
-}
-table {
-  width: auto;
-}
-h3 {
-  font-size: 2.6rem;
+@media (min-width: 40.0rem) { 
+  textarea {
+    width: auto;
+    height: auto;
+  }
+  input[type='text'] {
+    width: auto;
+  }
+  table {
+    width: auto;
+  }
+  h3 {
+    font-size: 2.6rem;
+  }
 }
