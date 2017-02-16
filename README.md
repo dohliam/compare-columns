@@ -28,8 +28,11 @@ Other tools for working with columns of data that might also be of interest:
 * [Sort columns](https://github.com/dohliam/sort-columns)
 * [Sum columns](https://github.com/dohliam/sum-columns)
 
+## Credits
+
+* [milligram](https://github.com/milligram/milligram) CSS by @cjpatoilo, prototyped using [dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css)
+* [github-corners](https://github.com/tholman/github-corners) by @tholman
+
 ## License
 
 MIT.
-
-[milligram](https://github.com/milligram/milligram) CSS by @cjpatoilo, prototyped using [dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css)
